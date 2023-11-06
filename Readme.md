@@ -7,3 +7,5 @@
 1. https://www.cloudflare.com/
    - How to set up: https://www.youtube.com/watch?v=nRh-bu-_3vo
 
+## Extra links
+- https://www.reddit.com/r/homelab/wiki/index/
