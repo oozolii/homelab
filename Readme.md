@@ -7,6 +7,9 @@
 - https://www.cloudflare.com/
    - How to set up: https://www.youtube.com/watch?v=nRh-bu-_3vo
 
+## DHCP server and AD blocker DNS
+- https://pi-hole.net/
+
 ## Managable start page for the services
 - https://github.com/bastienwirtz/homer
 ## Extra links
