@@ -3,6 +3,9 @@
 ## Virtualization
 - https://www.proxmox.com/en/
 
+## Configuration
+- https://www.ansible.com/
+
 ## Remote Access
 - https://www.cloudflare.com/
    - How to set up: https://www.youtube.com/watch?v=nRh-bu-_3vo
