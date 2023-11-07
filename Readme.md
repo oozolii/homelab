@@ -1,11 +1,13 @@
 # Homelab tools list
 
 ## Virtualization
-1. https://www.proxmox.com/en/
+- https://www.proxmox.com/en/
 
 ## Remote Access
-1. https://www.cloudflare.com/
+- https://www.cloudflare.com/
    - How to set up: https://www.youtube.com/watch?v=nRh-bu-_3vo
 
+## Managable start page for the services
+- https://github.com/bastienwirtz/homer
 ## Extra links
 - https://www.reddit.com/r/homelab/wiki/index/
