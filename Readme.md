@@ -3,6 +3,9 @@
 ## Virtualization
 - https://www.proxmox.com/en/
 
+## Promox Container Templates
+- https://github.com/tteck/Proxmox/tree/main/install
+
 ## Configuration
 - https://www.ansible.com/
 
